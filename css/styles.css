@@ -1,0 +1,19 @@
+.card-img-top {
+    width: 100%;
+    height: 15rem;
+    object-fit: cover;
+}
+
+.name{
+padding-top: 20px;
+}
+
+#page-top{
+    padding: 70px 70px
+    background-color: #a2c4c9;
+
+}
+#about-me{
+    background-color: #a2c4c9;
+    padding: 70px 70px
+}
